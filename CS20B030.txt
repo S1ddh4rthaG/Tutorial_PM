@@ -1,2 +1,2 @@
 Adding a text file
-// trying varius git commands
+// trying various git commands
