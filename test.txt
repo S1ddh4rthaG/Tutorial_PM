@@ -1,2 +1,5 @@
 Hello, This is our git tutorial
+
+Edit by-- Ishaan Kulkarni CS20B018 for sending a Pull Request--GitTutorial
 Is this what I am supposed to do?
+yeah!
